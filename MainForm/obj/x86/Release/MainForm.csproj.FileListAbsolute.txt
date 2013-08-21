@@ -1,0 +1,9 @@
+F:\C#\TestSame\MainForm\bin\Release\MainForm.exe
+F:\C#\TestSame\MainForm\bin\Release\MainForm.pdb
+F:\C#\TestSame\MainForm\bin\Release\WindowsExplorer.dll
+F:\C#\TestSame\MainForm\obj\x86\Release\MainForm.Form1.resources
+F:\C#\TestSame\MainForm\obj\x86\Release\MainForm.Properties.Resources.resources
+F:\C#\TestSame\MainForm\obj\x86\Release\MainForm.csproj.GenerateResource.Cache
+F:\C#\TestSame\MainForm\obj\x86\Release\MainForm.exe
+F:\C#\TestSame\MainForm\obj\x86\Release\MainForm.pdb
+F:\C#\TestSame\MainForm\obj\x86\Release\MainForm.csprojResolveAssemblyReference.cache
